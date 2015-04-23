@@ -1,0 +1,15 @@
+{
+  "name": "gulp-slim-issue-27",
+  "version": "0.0.1",
+  "description": "A simple test project to verify issue 27",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julien Gantner",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-slim": "^0.1.0"
+  }
+}
